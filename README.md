@@ -71,7 +71,7 @@ gantt
         splashscreen          :                spls , after w1 , 2h
         titlescreen           :                tits , after spls , 2h
 
-        Inventory             :          crit , inv , after scr  , 3d
+        Inventory             :          crit , inv , after scr  , 10d
 
 
     %%   M I N I M A L   V I A B L E   P R O J E C T

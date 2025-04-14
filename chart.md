@@ -49,19 +49,25 @@ gantt
         tileset-wl-acessories :                tswa , after tsw  , 2h
 
         %%   S P R I T E S
-        Sprites               :          crit , spr , after tis  , 60h
-        sprite-player         :                 spp , after tis  , 2h
-        sprite-mage           :                 spm , after spp  , 2h
-        sprite-paralax-bg     :                spgb , after spm  , 2h
-        sprite-inventory      :                spin , after spgb , 2h
+        Sprites               :          crit , spr , after tis   , 60h
+        sprite-player         :                 spp , after tis   , 2h
+        sprite-mage           :                 spm , after spp   , 2h
+        sprite-paralax-bg     :                spgb , after spm   , 2h
+        sprite-inventory      :                spin , after spgb  , 2h
 
     section UserInterface
-        Screens               :          crit , scr , after w1 , 3d
-        splashscreen          :                spls , after w1 , 2h
-        titlescreen           :                tits , after spls , 2h
+        Screens               :          crit , scr , after w1    , 3d
+        splashscreen          :                spls , after w1    , 2h
+        titlescreen           :                tits , after spls  , 2h
 
-        Inventory             :          crit , inv , after scr  , 3d
+        Inventory             :          crit , inv , after scr   , 9d
 
+    section UnityDevelopment
+        Implement-Intro       :               intro , after inv , 3d
+
+        Implement-Inventory   :               invent , after intro , 3d
+
+        Implement-TestLevel   :               test , after invent , 3d
 
     %%   M I N I M A L   V I A B L E   P R O J E C T
     %%

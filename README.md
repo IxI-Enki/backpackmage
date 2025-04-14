@@ -7,7 +7,7 @@
 </div>
 
 <details>
-  <summary> $\LARGE\color{orange}{Klicke\ }\color{royalblue}{hier\ }\color{lightgray}{um\ die\ Entwicklung\ zu\ verfolgen}$ </summary>
+  <summary> 👉🏼 $\LARGE\color{orange}{\ Klicke\ }\color{royalblue}{hier\ }\color{lightgray}{um\ die\ Entwicklung\ zu\ verfolgen}$ </summary>
 
 ```mermaid
 gantt

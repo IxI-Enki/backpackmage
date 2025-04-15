@@ -30,7 +30,7 @@ gantt
         week6 : w6, 19-05-2025, 6d
         week7 : w7, 26-05-2025, 5d
 
-        planing               : active , crit , plan , 14-04-2025 , 1d
+        planing               :          crit , plan , 14-04-2025 , 1d
     section Learning
         Unitiy Essentials     : active , crit ,  U , after w0 , 31d
 

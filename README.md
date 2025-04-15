@@ -20,7 +20,7 @@ gantt
     axisFormat %d.%m
 
     section Legend
-        today : milestone, crit, active, t0, 14-04-2025, 24h
+        today : milestone, crit, active, t0, 15-04-2025, 24h
         week0 : w0, 15-04-2025, 1m
         week1 : w1, 14-04-2025, 6d
         week2 : w2, 21-04-2025, 6d
@@ -34,7 +34,7 @@ gantt
     section Learning
         Unitiy Essentials     : active , crit ,  U , after w0 , 31d
 
-        TILES & Sprites       :          crit ,  t , after w0 ,  5d
+        TILES & Sprites       : active , crit ,  t , after w0 ,  5d
         tilemap               :                 tm , after w0 ,  1d
 
         ruletile              :                 tr , after tm   ,  1d
@@ -53,7 +53,7 @@ gantt
     section ArtCreation
 
         %%   T I L E S E T S
-        TileSets              :          crit , tis , after w0 , 60h
+        TileSets              : active , crit , tis , after w0 , 60h
         tileset-magetower     :                 tsm , after w0 , 2h
         tileset-mt-acessories :                tsma , after tsm  , 2h
         tileset-woodland      :                 tsw , after tsma , 2h

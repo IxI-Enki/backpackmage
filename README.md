@@ -96,7 +96,7 @@ gantt
 
 | MageTower |  Woodland |
 | :--: | :--: |
-| <span><img src="./img/magetower.png" alt="MageTower" width=400px></span> | <span><img src="./img/woodland.png" alt="Woodland" width=400px></span> |
+| <span><img src="./img/magetower.png" alt="MageTower" width=400px></span> | <span><img src="./img/woodland.png" alt="Woodland" width=600px></span> |
 | Decor | Water |
 | <span><img src="./img/map-decor.png" alt="Decor" width=400px></span> | <span><img src="./img/water.png" alt="Water" width=100px></span> |
 

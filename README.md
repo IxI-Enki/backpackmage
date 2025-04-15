@@ -102,8 +102,7 @@ gantt
 
 # Sprites
 
-- ### Players 
-    > Without Backpack<br>
+- ### Players  
     > <span><img src="./img/player.gif" alt="player?" width=100px><img src="./img/player2.gif" alt="player2?" width=100px><img src="./img/player3.gif" alt="player3?" width=100px><img src="./img/player_01_bp.gif" alt="player1?" width=100px><img src="./img/player_02_bp.gif" alt="player2?" width=100px><img src="./img/player_03_bp.gif" alt="player3?" width=100px></span>
 
 - ### Enemies

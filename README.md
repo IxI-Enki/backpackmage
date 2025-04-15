@@ -35,11 +35,11 @@ gantt
         Unitiy Essentials     : active , crit ,  U , after w0 , 31d
 
         TILES & Sprites       : active , crit ,  t , after w0 ,  5d
-        tilemap               :                 tm , after w0 ,  1d
+        tilemap               : active ,        tm , after w0 ,  1d
 
-        ruletile              :                 tr , after tm   ,  1d
-        animatedtile          :                 ta , after tr   ,  1d
-        spritesheet           :                  s , after ta   ,  1d
+        ruletile              : active ,        tr , after tm   ,  1d
+        animatedtile          : active ,        ta , after tr   ,  1d
+        spritesheet           : active ,         s , after ta   ,  1d
 
 
         GUI                   :          crit ,  g , after w1 ,  6d
@@ -53,14 +53,14 @@ gantt
     section ArtCreation
 
         %%   T I L E S E T S
-        TileSets              : active , crit , tis , after w0 , 60h
+        TileSets              :   done , crit , tis , after w0 , 60h
         tileset-magetower     :   done ,        tsm , after w0 , 2h
         tileset-mt-acessories :   done ,       tsma , after tsm  , 2h
         tileset-woodland      :   done ,        tsw , after tsma , 2h
         tileset-wl-acessories :   done ,       tswa , after tsw  , 2h
 
         %%   S P R I T E S
-        Sprites               :          crit , spr , after tis   , 60h
+        Sprites               : active , crit , spr , after tis   , 60h
         sprite-player         :                 spp , after tis   , 2h
         sprite-mage           :                 spm , after spp   , 2h
         sprite-paralax-bg     :                spgb , after spm   , 2h

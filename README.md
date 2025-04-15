@@ -96,8 +96,11 @@ gantt
 # Sprites
 
 - ### Players 
-
+    > Without Backpack
     > <span><img src="./img/player.gif" alt="player?"><img src="./img/player2.gif" alt="player2?"><img src="./img/player3.gif" alt="player3?"></span>
+
+    > Without Backpack
+    > <span><img src="./img/player_01_bp.gif" alt="player1?"><img src="./img/player_02_bp.gif" alt="player2?"><img src="./img/player_03_bp.gif" alt="player3?"></span>
 
 
   

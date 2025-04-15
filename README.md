@@ -104,13 +104,10 @@ gantt
 
 - ### Players 
     > Without Backpack<br>
-    > <span><img src="./img/player.gif" alt="player?"><img src="./img/player2.gif" alt="player2?"><img src="./img/player3.gif" alt="player3?"></span>
-
-    > With Backpack<br>
-    > <span><img src="./img/player_01_bp.gif" alt="player1?"><img src="./img/player_02_bp.gif" alt="player2?"><img src="./img/player_03_bp.gif" alt="player3?"></span>
+    > <span><img src="./img/player.gif" alt="player?" width=100px><img src="./img/player2.gif" alt="player2?" width=100px><img src="./img/player3.gif" alt="player3?" width=100px><img src="./img/player_01_bp.gif" alt="player1?" width=100px><img src="./img/player_02_bp.gif" alt="player2?" width=100px><img src="./img/player_03_bp.gif" alt="player3?" width=100px></span>
 
 - ### Enemies
-    > <span><img src="./img/bat_01.gif" alt="bat"></span>
+    > <span><img src="./img/bat_01.gif" alt="bat" width=100px></span>
 
   
 </details>

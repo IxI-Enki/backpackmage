@@ -54,10 +54,10 @@ gantt
 
         %%   T I L E S E T S
         TileSets              : active , crit , tis , after w0 , 60h
-        tileset-magetower     :                 tsm , after w0 , 2h
-        tileset-mt-acessories :                tsma , after tsm  , 2h
-        tileset-woodland      :                 tsw , after tsma , 2h
-        tileset-wl-acessories :                tswa , after tsw  , 2h
+        tileset-magetower     :   done ,        tsm , after w0 , 2h
+        tileset-mt-acessories :   done ,       tsma , after tsm  , 2h
+        tileset-woodland      :   done ,        tsw , after tsma , 2h
+        tileset-wl-acessories :   done ,       tswa , after tsw  , 2h
 
         %%   S P R I T E S
         Sprites               :          crit , spr , after tis   , 60h

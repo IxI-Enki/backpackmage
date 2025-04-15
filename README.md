@@ -97,7 +97,7 @@ gantt
 
 - ### Players 
 
-    > <img src="./img/player.gif" alt="player?">
+    > <span><img src="./img/player.gif" alt="player?"><img src="./img/player2.gif" alt="player2?"></span>
 
 
   

@@ -92,6 +92,13 @@ gantt
     Deploy                    : milestone , crit , 31-05-2025
 
 ```
+# Tilesets
+
+| MageTower |  Woodland |
+| :--: | :--: |
+| <span><img src="./img/magetower.png" alt="MageTower" width=400px></span> | <span><img src="./img/woodland.png" alt="Woodland" width=400px></span> |
+| Decor | Water |
+| <span><img src="./img/map-decor.png" alt="Decor" width=400px></span> | <span><img src="./img/water.png" alt="Water" width=100px></span> |
 
 # Sprites
 
@@ -102,6 +109,8 @@ gantt
     > With Backpack<br>
     > <span><img src="./img/player_01_bp.gif" alt="player1?"><img src="./img/player_02_bp.gif" alt="player2?"><img src="./img/player_03_bp.gif" alt="player3?"></span>
 
+- ### Enemies
+    > <span><img src="./img/bat_01.gif" alt="bat"></span>
 
   
 </details>

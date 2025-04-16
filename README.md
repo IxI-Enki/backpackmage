@@ -92,13 +92,19 @@ gantt
     Deploy                    : milestone , crit , 31-05-2025
 
 ```
-# Tilesets
+# Tiles 
 
+## Tilemaps
 | MageTower |  Woodland |
 | :--: | :--: |
 | <span><img src="./img/magetower-big.png" alt="MageTower" ></span> | <span><img src="./img/woodland-big.png" alt="Woodland" ></span> |
 | Decor | Water |
 | <span><img src="./img/map-decor.png" alt="Decor" width=400px></span> | <span><img src="./img/water.png" alt="Water" width=80px></span> |
+
+## Ruletiles
+
+| <span><img src="./img/ruletiles-wl.png" alt="Ruletiles in Unity" ></span> | <span><img src="./img/ruletiles-example.png" alt="Woodland" ></span> |
+| :--: | :--: |
 
 # Sprites
 

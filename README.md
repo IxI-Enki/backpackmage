@@ -37,7 +37,7 @@ gantt
         TILES & Sprites       : active , crit ,  t , after w0 ,  5d
         tilemap               :   done ,        tm , after w0 ,  1d
 
-        ruletile              :   done ,        tr , after tm   ,  1d
+        ruletile              :   done ,        tr , after tm   ,  2d
         animatedtile          : active ,        ta , after tr   ,  1d
         spritesheet           : active ,         s , after ta   ,  1d
 

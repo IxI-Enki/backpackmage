@@ -35,9 +35,9 @@ gantt
         Unitiy Essentials     : active , crit ,  U , after w0 , 31d
 
         TILES & Sprites       : active , crit ,  t , after w0 ,  5d
-        tilemap               : active ,        tm , after w0 ,  1d
+        tilemap               :   done ,        tm , after w0 ,  1d
 
-        ruletile              : active ,        tr , after tm   ,  1d
+        ruletile              :   done ,        tr , after tm   ,  1d
         animatedtile          : active ,        ta , after tr   ,  1d
         spritesheet           : active ,         s , after ta   ,  1d
 

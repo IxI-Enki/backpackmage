@@ -42,8 +42,8 @@ gantt
         spritesheet           : active ,         s , after ta   ,  1d
 
 
-        GUI                   :          crit ,  g , after w1 ,  6d
-        splashscreen          :                  s , after w1 ,  1d
+        GUI                   :          crit ,  g , after w2 ,  6d
+        splashscreen          :                  s , after w2 ,  1d
         titlescreen           :                 ts , after s    ,  1d
 
         inventory             :                   i, after ts   ,  1d
@@ -53,22 +53,22 @@ gantt
     section ArtCreation
 
         %%   T I L E S E T S
-        TileSets              :   done , crit , tis , after w0 , 60h
+        TileSets              :   done , crit , tis , after w0 , 120h
         tileset-magetower     :   done ,        tsm , after w0 , 2h
         tileset-mt-acessories :   done ,       tsma , after tsm  , 2h
         tileset-woodland      :   done ,        tsw , after tsma , 2h
         tileset-wl-acessories :   done ,       tswa , after tsw  , 2h
 
         %%   S P R I T E S
-        Sprites               : active , crit , spr , after tis   , 60h
+        Sprites               : active , crit , spr , after tis   , 120h
         sprite-player         :                 spp , after tis   , 2h
         sprite-mage           :                 spm , after spp   , 2h
         sprite-paralax-bg     :                spgb , after spm   , 2h
         sprite-inventory      :                spin , after spgb  , 2h
 
     section UserInterface
-        Screens               :          crit , scr , after w1    , 3d
-        splashscreen          :                spls , after w1    , 2h
+        Screens               :          crit , scr , after w2    , 3d
+        splashscreen          :                spls , after w2    , 2h
         titlescreen           :                tits , after spls  , 2h
 
         Inventory             :          crit , inv , after scr   , 9d

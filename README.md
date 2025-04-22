@@ -101,12 +101,17 @@ gantt
 | Decor | Water |
 | <span><img src="./img/map-decor.png" alt="Decor" width=400px></span> | <span><img src="./img/water.png" alt="Water" width=80px></span> |
 | TileMap | NormalMap |
-| <span><img src="./img/tileMap.png" alt="MageTower" ></span> | <span><img src="./img/normalMap.png" alt="Woodland" ></span> |
+| <span><img src="./img/tileMap.png" alt="TileMap" ></span> | <span><img src="./img/normalMap.png" alt="NormalMap" ></span> |
 
 ## Ruletiles
 
 | <span><img src="./img/ruletiles-wl.png" alt="Ruletiles in Unity" ></span> | <span><img src="./img/ruletiles-example.png" alt="Woodland" ></span> |
 | :--: | :--: |
+
+## Lighting with Normal Maps
+
+| <span><img src="./img/flames.mp4" alt="lighing example" ></span> |
+| :--: |
 
 # Sprites
 

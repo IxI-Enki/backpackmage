@@ -110,8 +110,7 @@ gantt
 
 ## Lighting with Normal Maps
 
-| <span><img src="./img/flames.mp4" alt="lighing example" ></span> |
-| :--: |
+https://github.com/user-attachments/assets/69735791-062f-482f-8116-82653ce57a5f
 
 # Sprites
 

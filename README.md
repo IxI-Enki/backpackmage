@@ -16,7 +16,9 @@ $\LARGE\color{lime}{hier\ }\color{lightgray}{um\ die\ Downloads\ zu\ sehen}$   <
   >  <img src="https://github.com/user-attachments/assets/a4326d7b-0438-44cf-a636-89e35750e407" link="https://github.com/IxI-Enki/backpackmage/blob/master/backpackmage-0.0.1.7z" alt="Erklärender Screenshot" Width=400px>
 
   - # Download [ Version 0.0.1 ](https://github.com/IxI-Enki/backpackmage/blob/master/backpackmage-0.0.1.7z) 
-
+      > - download raw file
+      > - unzip archive (7z)
+      > - play with BPM.exe
 
 </details>
 

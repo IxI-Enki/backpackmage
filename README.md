@@ -7,6 +7,18 @@
 </div>
 
 <details>
+  <summary>  $\LARGE\color{orange}{\ Klicke\ }$ 👉🏼 
+$\LARGE\color{lime}{hier\ }\color{lightgray}{um\ die\ Downloads\ zu\ sehen}$   </summary>
+  
+- Das vollständige Archiv kann mit dem **`Downloadbutton`**, rechts kopiert werden:
+  ![image](https://github.com/user-attachments/assets/a4326d7b-0438-44cf-a636-89e35750e407)
+
+- ### [ 0.0.1 ]() 
+
+</details>
+
+
+<details>
   <summary>  $\LARGE\color{orange}{\ Klicke\ }$ 👉🏼 $\LARGE\color{royalblue}{hier\ }\color{lightgray}{um\ die\ Entwicklung\ zu\ verfolgen}$ </summary>
 
 ```mermaid

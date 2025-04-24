@@ -11,12 +11,16 @@
 $\LARGE\color{lime}{hier\ }\color{lightgray}{um\ die\ Downloads\ zu\ sehen}$   </summary>
   
 - Das vollständige Archiv kann mit dem **`Downloadbutton`**, rechts kopiert werden:
-  ![image](https://github.com/user-attachments/assets/a4326d7b-0438-44cf-a636-89e35750e407)
 
-- ### [ 0.0.1 ]() 
+  > ###### Screenshot:
+  >  <img src="https://github.com/user-attachments/assets/a4326d7b-0438-44cf-a636-89e35750e407" link="https://github.com/IxI-Enki/backpackmage/blob/master/backpackmage-0.0.1.7z" alt="Erklärender Screenshot" Width=400px>
+
+  - # Download [ Version 0.0.1 ](https://github.com/IxI-Enki/backpackmage/blob/master/backpackmage-0.0.1.7z) 
+
 
 </details>
 
+---
 
 <details>
   <summary>  $\LARGE\color{orange}{\ Klicke\ }$ 👉🏼 $\LARGE\color{royalblue}{hier\ }\color{lightgray}{um\ die\ Entwicklung\ zu\ verfolgen}$ </summary>

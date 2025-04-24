@@ -15,11 +15,18 @@ $\LARGE\color{lime}{hier\ }\color{lightgray}{um\ die\ Downloads\ zu\ sehen}$   <
   > ###### Screenshot:
   >  <img src="https://github.com/user-attachments/assets/a4326d7b-0438-44cf-a636-89e35750e407" link="https://github.com/IxI-Enki/backpackmage/blob/master/backpackmage-0.0.1.7z" alt="Erklärender Screenshot" Width=400px>
 
-  - # Download [ Version 0.0.1 ](https://github.com/IxI-Enki/backpackmage/blob/master/backpackmage-0.0.1.7z) 
+  # Downloads 
+    - Windows: [ Version 0.0.1 ](https://github.com/IxI-Enki/backpackmage/blob/master/backpackmage-0.0.1.7z) 
       > - download raw file
       > - unzip archive (7z)
       > - play with BPM.exe
 
+    - Linux [ Version 0.0.2 ](https://github.com/IxI-Enki/backpackmage/blob/master/backpackmage-0.0.2-linux.x86_64.7z)
+      > - download raw file
+      > - unzip archive (7z)
+      > - `sudo apt-get install libglu1-mesa libxcursor1 libxrandr2` - install dependencies
+      > - `chmod +x backpackmage-0.0.2-linux.x86_64` - to make file executeable
+      > - `./backpackmage-0.0.2-linux` - execute program
 </details>
 
 ---

@@ -63,8 +63,8 @@ gantt
         tilemap               :   done ,        tm , after w0 ,  1d
 
         ruletile              :   done ,        tr , after tm   ,  2d
-        animatedtile          : active ,        ta , after tr   ,  1d
-        spritesheet           : active ,         s , after ta   ,  1d
+        animatedtile          :   done ,        ta , after tr   ,  1d
+        spritesheet           :   done ,         s , after ta   ,  1d
 
 
         GUI                   :          crit ,  g , after w2 ,  6d
@@ -85,16 +85,16 @@ gantt
         tileset-wl-acessories :   done ,       tswa , after tsw  , 2h
 
         %%   S P R I T E S
-        Sprites               : active , crit , spr , after tis   , 120h
+        Sprites               :   done , crit , spr , after tis   , 120h
         sprite-player         :                 spp , after tis   , 2h
         sprite-mage           :                 spm , after spp   , 2h
-        sprite-paralax-bg     :                spgb , after spm   , 2h
-        sprite-inventory      :                spin , after spgb  , 2h
+        sprite-paralax-bg     :  active,       spgb , after spm   , 2h
+        sprite-inventory      :  active,       spin , after spgb  , 2h
 
     section UserInterface
-        Screens               :          crit , scr , after w2    , 3d
+        Screens               :  active, crit , scr , after w2    , 3d
         splashscreen          :                spls , after w2    , 2h
-        titlescreen           :                tits , after spls  , 2h
+        titlescreen           :  active,       tits , after spls  , 2h
 
         Inventory             :          crit , inv , after scr   , 9d
 

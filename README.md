@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/logo.svg" alt="logo" width=100% >
+<img src="img/TitleScreen.png" alt="logo" width=100% >
 
 # *2D Side-Scrolling-RPG mit einem Twist*
 

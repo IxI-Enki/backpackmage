@@ -146,7 +146,8 @@ https://github.com/user-attachments/assets/69735791-062f-482f-8116-82653ce57a5f
     > <span><img src="./img/bat_01.gif" alt="bat" width=100px></span>
 
   - ### Enemies Brains
-    > [Brains](./img/HappyLittleMonsters.mp4")
+    > ![HappyLittleMonsters](https://github.com/user-attachments/assets/2dec3c41-9f00-4651-9ea5-da84bb10712a)
+
     
 
 

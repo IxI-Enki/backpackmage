@@ -45,7 +45,7 @@ gantt
     axisFormat %d.%m
 
     section Legend
-        today : milestone, crit, active, t0, 26-04-2025, 24h
+        today : milestone, crit, active, t0, 01-05-2025, 24h
         week0 : w0, 15-04-2025, 1m
         week1 : w1, 14-04-2025, 6d
         week2 : w2, 21-04-2025, 6d
@@ -144,6 +144,11 @@ https://github.com/user-attachments/assets/69735791-062f-482f-8116-82653ce57a5f
 
 - ### Enemies
     > <span><img src="./img/bat_01.gif" alt="bat" width=100px></span>
+
+  - ### Enemies Brains
+    > [Brains](./img/HappyLittleMonsters.mp4")
+    
+
 
   
 </details>

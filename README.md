@@ -47,7 +47,7 @@ gantt
     axisFormat %d.%m
 
     section Legend
-        today : milestone, crit, active, t0, 01-05-2025, 24h
+        today : milestone, crit, active, t0, 06-05-2025, 24h
         week0 : w0, 15-04-2025, 1m
         week1 : w1, 14-04-2025, 6d
         week2 : w2, 21-04-2025, 6d
@@ -61,7 +61,7 @@ gantt
     section Learning
         Unitiy Essentials     : active , crit ,  U , after w0 , 31d
 
-        TILES & Sprites       : active , crit ,  t , after w0 ,  5d
+        TILES & Sprites       :   done , crit ,  t , after w0 ,  5d
         tilemap               :   done ,        tm , after w0 ,  1d
 
         ruletile              :   done ,        tr , after tm   ,  2d
@@ -70,8 +70,8 @@ gantt
 
 
         GUI                   :          crit ,  g , after w2 ,  6d
-        splashscreen          :                  s , after w2 ,  1d
-        titlescreen           :                 ts , after s    ,  1d
+        splashscreen          :   done ,         s , after w2 ,  1d
+        titlescreen           :   done ,        ts , after s    ,  1d
 
         inventory             :                   i, after ts   ,  1d
 
@@ -94,11 +94,11 @@ gantt
         sprite-inventory      :  active,       spin , after spgb  , 2h
 
     section UserInterface
-        Screens               :  active, crit , scr , after w2    , 3d
-        splashscreen          :                spls , after w2    , 2h
-        titlescreen           :  active,       tits , after spls  , 2h
+        Screens               :   done , crit , scr , after w2    , 3d
+        splashscreen          :   done ,       spls , after w2    , 2h
+        titlescreen           :   done ,       tits , after spls  , 2h
 
-        Inventory             :          crit , inv , after scr   , 9d
+        Inventory             : active ,  crit , inv , after scr   , 9d
 
     section UnityDevelopment
         Implement-Intro       :               intro , after inv , 3d

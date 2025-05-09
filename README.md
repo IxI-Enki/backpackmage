@@ -176,6 +176,10 @@ https://github.com/user-attachments/assets/69735791-062f-482f-8116-82653ce57a5f
 </details>
 
 
+--- 
+
+# <p align="center"> Übersicht </p>
+
 ## Spielprinzip:
 - Ihr steuert einen mürrischen Abenteurer, der eigentlich nur seine Ruhe will – doch ein sadistischer Magier zwingt euch mit einem Fluch ihn herumzutragen!
 - In diesem 2D Side-Scrolling-RPG müsst ihr Quests erfüllen, Monster bekämpfen und mit dem ständigen Spott des Magiers leben, der euch leiden sieht.

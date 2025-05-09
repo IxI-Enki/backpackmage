@@ -19,6 +19,7 @@ $\LARGE\color{lime}{hier\ }\color{lightgray}{um\ die\ Downloads\ zu\ sehen}$   <
     - Windows:
       - [ Version 0.0.1 ](https://github.com/IxI-Enki/backpackmage/blob/master/backpackmage-0.0.1.7z)
       - [ Version 0.0.5 ](https://github.com/IxI-Enki/backpackmage/blob/master/backpackmage-0.0.5.7z)
+      - [ Version 0.0.7 ](https://github.com/IxI-Enki/backpackmage/blob/master/backpackmage-0.0.7-exe.7z)
       > - download raw file
       > - unzip archive (7z)
       > - play with BPM.exe

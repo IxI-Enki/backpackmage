@@ -1,13 +1,11 @@
 <!-- ------------- B A C K P A C K M A G E ------------- -->
 
 ###### <div align="center"> Medientechnik - 2025<br><sup><b>Ritt Jan</b></sup>
-
+## <p align="center"><sup></sup> Spiele-Prototyp <br><img src="img/backpackmage-logo-title-vector.svg" width=50%></p>
 > Ich habe die **Abgabe** meines Spiele-Prototypen in folgende **Bereiche  gegliedert**, <br> um die *Übersichtlichkeit und Zugänglichkeit* zum Projekt zu verbessern.
-
 </div>
 
 ---
-## <p align="center"><sup></sup> Spiele-Prototyp <br><img src="img/backpackmage-logo-title-vector.svg" width=50%></p>
 - 🗃️ <a href="https://github.com/IxI-Enki/backpackmage" title="Projekt-Proposal & Dokumentation der Ausarbeitung durchstöbern" alt="link to doku"> Hier </a> finden Sie Proposal & Dokumentation. 📌
 - 💾 <a href="https://github.com/IxI-Enki/backpackmage-webgl" title="WebGL-Browsergame live testen & downloadbare Applikationen durchstöbern" alt="link to downloads"> Hier </a> finden Sie alle Downloads & Browser-Versionen bereitgestellt. 📌
 

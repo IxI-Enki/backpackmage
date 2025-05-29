@@ -9,7 +9,7 @@
 ---
 ## <p align="center"><sup></sup> Spiele-Prototyp <br><img src="img/backpackmage-logo-title-vector.svg" width=50%></p>
 - 🗃️ <a href="https://github.com/IxI-Enki/backpackmage" title="Projekt-Proposal & Dokumentation der Ausarbeitung durchstöbern" alt="link to doku"> Hier </a> finden Sie Proposal & Dokumentation. 📌
-- 💾 <a href="https://github.com/IxI-Enki/backpackmage-webgl" title="WebGL-Browsergame live testen & downloadbare Applikationen durchstöbern" alt="link to downloads"> Hier </a> finden Sie alle Downloads & Browser-Versionen aufgelistet. 📌
+- 💾 <a href="https://github.com/IxI-Enki/backpackmage-webgl" title="WebGL-Browsergame live testen & downloadbare Applikationen durchstöbern" alt="link to downloads"> Hier </a> finden Sie alle Downloads & Browser-Versionen bereitgestellt. 📌
 
 ---
 ### Zusatz-Challenge:

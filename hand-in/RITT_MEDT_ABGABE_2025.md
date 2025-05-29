@@ -14,8 +14,8 @@
 ---
 ### Zusatz-Challenge:
   - **Eine Grafik**-Datei sei als kreativer, initialer Anstoß gegeben. <br> Die einzige, unverändert-benutzte Datei ist die Schriftart des Titels.<br><p align="center"><img src="img/premade-assets.png" alt="premade-inspiration-file" title="Diese Grafiken bestimmen den groben Stil sowie die groben Möglichkeiten eine kleine Welt daraus zu bauen." width=50%>
-  - **Alles Nötige(Art,Sound,Code,...) wird in kleinteiliger, liebevoller Handarbeit selbst gemacht**. (Als Hobby&Lern-Projekt wird weiter daran gebaut werden 😊)
-  - **Kein** Assetstore, keine fertigen Prefabsl, keine fertigen Soundfiles, kein fremder Code. <br> Keine generierten Grafiken, Prefabs, Code, Musik oder sonst etwas.<br>( *KI wurde <u>nur</u> dazu verwendet, Konzepte zu erklären* )
+  - **Alles Nötige(Art,Sound,Code,...) wird in kleinteiliger, liebevoller Handarbeit selbst gemacht**. <br> (Als Hobby & Lern-Projekt wird auch nach der Abgabe weiter daran gebaut werden 😊)
+  - **Kein** Assetstore, keine fertigen Prefabsl, keine fertigen Soundfiles, kein fremder Code. <br> Keine generierten Grafiken, Prefabs, Code, Musik oder sonst etwas.<br>(*KI wurde <u>nur</u> dazu verwendet, Konzepte zu erklären*)
 
   ---
 #### 🖤 Großen Dank an die besten ***Sounddesigner*** :

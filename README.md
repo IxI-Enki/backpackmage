@@ -10,7 +10,7 @@
   <summary>  $\LARGE\color{orange}{\ Klicke\ }$ 👉🏼 
 $\LARGE\color{lime}{hier\ }\color{lightgray}{um\ Downloads\ von\ älteren\ Versionen zu\ sehen}$   </summary>
   
-- Das vollständige Archiv kann mit dem **`Downloadbutton`**, rechts kopiert werden:
+- Jedes Archiv kann mit dem **Button** `Download raw file`, oben-rechts heruntergeladen werden:
 
   > ###### Screenshot:
   >  <img src="https://github.com/user-attachments/assets/a4326d7b-0438-44cf-a636-89e35750e407" link="https://github.com/IxI-Enki/backpackmage/blob/master/backpackmage-0.0.1.7z" alt="Erklärender Screenshot" Width=400px>
@@ -157,7 +157,6 @@ https://github.com/user-attachments/assets/69735791-062f-482f-8116-82653ce57a5f
 - ## AnimationGraph
   > comming
   
-
   
 - ## Enemy Brains
     ![brains](https://github.com/user-attachments/assets/4269d165-6581-45d0-8736-e8e3b1f751b4)
@@ -168,17 +167,11 @@ https://github.com/user-attachments/assets/69735791-062f-482f-8116-82653ce57a5f
     >   - idle, walk and jump<br>
     > ![SkeletonMobbing](https://github.com/user-attachments/assets/7588eb0b-c047-49e8-8436-7461b6f0daa9)
 
-
-    
-
-
-  
 </details>
 
-
 --- 
-
-# <p align="center"> Übersicht </p>
+<br><br><br>
+# <p align="center"> Allgemeine Übersicht (Proposal) </p>
 
 ## Spielprinzip:
 - Ihr steuert einen mürrischen Abenteurer, der eigentlich nur seine Ruhe will – doch ein sadistischer Magier zwingt euch mit einem Fluch ihn herumzutragen!

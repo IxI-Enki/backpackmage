@@ -48,7 +48,7 @@ gantt
     axisFormat %d.%m
 
     section Legend
-        today : milestone, crit, active, t0, 06-05-2025, 24h
+        today : milestone, crit, active, t0, 31-05-2025, 24h
         week0 : w0, 15-04-2025, 1m
         week1 : w1, 14-04-2025, 6d
         week2 : w2, 21-04-2025, 6d

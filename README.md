@@ -8,7 +8,7 @@
 
 <details>
   <summary>  $\LARGE\color{orange}{\ Klicke\ }$ 👉🏼 
-$\LARGE\color{lime}{hier\ }\color{lightgray}{um\ die\ Downloads\ zu\ sehen}$   </summary>
+$\LARGE\color{lime}{hier\ }\color{lightgray}{um\ Downloads\ von\ älteren\ Versionen zu\ sehen}$   </summary>
   
 - Das vollständige Archiv kann mit dem **`Downloadbutton`**, rechts kopiert werden:
 

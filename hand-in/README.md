@@ -39,5 +39,5 @@
   | *Used advanced graphs* | Rendergraph - for black outlines<br>Unity animation graph - sprite animations |
 </div>
 <!-- ------------------- 𓂍 ꂅnki 𓂍 -------------------- -->
-*<p align="center"><a href="https://github.com/IxI-Enki" alt="link-to-enkis-github" title="Besuche das Github Profil des Erstellers"><sub>by</sub> Jan Ritt <br><b> 𓂍 ꂅnki 𓂍 </b></a></p>*
+<p align="center"><a href="https://github.com/IxI-Enki" alt="link-to-enkis-github" title="Besuche das Github Profil des Erstellers"><sub>by</sub> Jan Ritt <br><b> 𓂍 ꂅnki 𓂍 </b></a></p>
 <!-- ------------------- 𓂍 ꂅnki 𓂍 -------------------- -->
